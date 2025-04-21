@@ -1,6 +1,6 @@
 # Modern & Minimalist Next.js Portfolio.
 
-![Modern & Minimalist Next.js Portfolio.](/.github/images/img_main.png "Modern & Minimalist Next.js Portfolio.")
+
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/np5555 Ashraf "Ask Me Anything!")
 [![GitHub license](https://img.shields.io/github/license/Naeem Ashraf/next-portfolio)](https://github.com/np5555 Ashraf/next-portfolio/blob/main/LICENSE "GitHub license")
