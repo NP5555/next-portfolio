@@ -1,6 +1,6 @@
 # Modern & Minimalist Next.js Portfolio.
 
-![Modern & Minimalist Next.js Portfolio.](/.github/images/img_main.png "Modern & Minimalist Next.js Portfolio.")
+
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/np5555 Ashraf "Ask Me Anything!")
 [![GitHub license](https://img.shields.io/github/license/Naeem Ashraf/next-portfolio)](https://github.com/np5555 Ashraf/next-portfolio/blob/main/LICENSE "GitHub license")
@@ -40,10 +40,6 @@
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
 ## :rocket: Follow Me
 
 [![GitHub followers](https://img.shields.io/github/followers/Naeem Ashraf?style=social&label=Follow&maxAge=2592000)](https://github.com/np5555 Ashraf "Follow Me")
@@ -73,7 +69,7 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#Naeem Ashraf/next-portfolio&Timeline">
+<a href="https://star-history.com/#NaeemAshraf/next-portfolio&Timeline">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Naeem Ashraf/next-portfolio&type=Timeline&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Naeem Ashraf/next-portfolio&type=Timeline" />
